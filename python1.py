@@ -22,7 +22,7 @@ if product_name:
         "Swiggy Instamart": f"https://www.swiggy.com/instamart/search?custom_back=true&query={query}",
         "JioMart": f"https://www.jiomart.com/products?q={query}",
         #"Zepto": f"https://www.zeptonow.com/search?q={query}", 
-        #"DMart": f"https://www.dmart.in/search?q={query}",
+        "DMart": f"https://www.dmart.in/search?q={query}",
         #"Myntra Now": f"https://www.myntra.com/search?q={query}"
     }
 
