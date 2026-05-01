@@ -20,7 +20,7 @@ if product_name:
         "Amazon Now": f"https://www.amazon.in/tez/browse/search?qcbrand=qqfsWw9RkO&searchKeyword={query}",
         "Flipkart Minutes": f"https://www.flipkart.com/search?q={query}&otracker=search&otracker1=search&marketplace=HYPERLOCAL&as-show=on&as=off&pageUID",
         "Swiggy Instamart": f"https://www.swiggy.com/instamart/search?custom_back=true&query={query}",
-        "JioMart": f"https://www.jiomart.com/search/{query}",
+        "JioMart": f"https://www.jiomart.com/products?q={query}",
         #"Zepto": f"https://www.zeptonow.com/search?q={query}", 
         #"DMart": f"https://www.dmart.in/search?q={query}",
         #"Myntra Now": f"https://www.myntra.com/search?q={query}"
