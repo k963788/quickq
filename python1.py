@@ -23,7 +23,7 @@ if product_name:
         "JioMart": f"https://www.jiomart.com/products?q={query}&searchtype=standard",
         #"Zepto": f"https://www.zeptonow.com/search?q={query}", 
         "DMart": f"https://www.dmart.in/search?searchTerm={query}",
-        "Myntra Now": f"https://www.myntra.com/search?q={query}",
+        "Myntra Now": f"https://www.myntra.com/{query}?rawQuery={query}",
         "Flipkart": f"https://www.flipkart.com/search?q={query}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
         "Amazon": f"https://www.amazon.in/s?k={query}&crid=2MA97NNCXN5KZ&sprefix=simple%2Caps%2C426&ref=nb_sb_noss_1"
     }
